@@ -81,7 +81,7 @@ public class Main {
 
         double totalKg = wtTotal / 1000;
 
-        System.out.println("Общий вес спорт-завтрака " + totalKg + " кг.");
+        System.out.println("Общий вес спортивного завтрака " + totalKg + " кг.");
 
         //задача 7
 
@@ -113,12 +113,9 @@ public class Main {
         double yearKristinaMax = salaryKristinaNew*12;
         double differenceYearKristina = yearKristinaMax - yearKristinaMin;
 
-
         System.out.println ("Маша теперь получает " + salaryMachaNew + " рублей. Годовой доход вырос на " + differenceYearMacha + " рублей." );
         System.out.println ("Денис теперь получает " + salaryDenisNew + " рублей. Годовой доход вырос на " + differenceYearDenis + " рублей." );
         System.out.println ("Кристина теперь получает " + salaryKristinaNew + " рублей. Годовой доход вырос на " + differenceYearKristina + " рублей." );
-
-
 
 
     }
